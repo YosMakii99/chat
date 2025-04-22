@@ -1,21 +1,21 @@
 
 .usericonformii {
   display: block;
-  margin-top: -40px;
-  width: 150px;
+  margin-top: -20px;
+  width: 185px;
   margin-right: -60px;
 }
 
 .feed {
  display: block;
  margin-top: -0px;
- width: 150px;
+ width: 185px;
 
 }
 
 .region {
 width: 700px;
-margin-left: 350px;
+margin-left: 340px;
 margin-top: -120px;
 display: block;
 }
@@ -24,25 +24,25 @@ display: block;
  display: block;
  margin-top: ;
  margin-top: -10;
-width: 150px;
+width: 185px;
 
 }
 
 .message_wiiu {
   display: block;
-  width: 150px;
+  width: 185px;
 }
 
 .notifications {
- margin-left: 5px;
-  width: 150px;
+ margin-left: -2px;
+  width: 185px;
 }
 
 .back {
 
   display: block;
   margin: -20px;
-  width: 155px;
+  width: 185px;
   margin-top: -15px;
   margin-left: 1px;
 }
