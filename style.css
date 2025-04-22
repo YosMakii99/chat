@@ -1,14 +1,14 @@
 .usericonformii {
   display: block;
-  margin-top: -5px;
-  width: 195px;
+  margin-top: -9px;
+  width: 200px;
   margin-right: 120px;
 }
 
 .feed {
  display: block;
  margin-top: -0px;
- width: 195px;
+ width: 200px;
 
 }
 
@@ -23,26 +23,26 @@ display: block;
  display: block;
  margin-top: ;
  margin-top: -10;
-width: 195px;
+width: 200px;
 
 }
 
 .message_wiiu {
   display: block;
-  width: 195px;
+  width: 200px;
 }
 
 .notifications {
- margin-left: 5px;
-  width: 190px;
+ margin-left: 0px;
+  width: 200px;
 }
 
 .back {
 
   display: block;
   margin: -20px;
-  width: 195px;
-  margin-top: -15px;
+  width: 200px;
+  margin-top: -12px;
   margin-left: 2px;
 }
 
@@ -72,15 +72,49 @@ margin-top: 105px;
   margin-left: 200px;
 }
 
+.mk8_icon {
+margin-left: 300px;
+margin-top: -50px;
+width: 160px;
+display: block;
+border-radius: 25px;
+
+}
+
+.mke {
+  margin-left: 300px;
+  display: block;
+  position: absolute;
+  margin-top: -400px;
+
+ width: 200px;
+}
 
 
 
+body {
+        
+  background-image: url(/img/background.png)   
+
+ 
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(/img/background.png);   
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
 
 
+.box{
+  
+  background-image: url(../img/background.png);
 
 
-
-
+}
 
 
 
