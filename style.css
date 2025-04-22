@@ -1,15 +1,15 @@
 
 .usericonformii {
   display: block;
-  margin-top: -20px;
-  width: 185px;
+  margin-top: -5px;
+  width: 165px;
   margin-right: -60px;
 }
 
 .feed {
  display: block;
  margin-top: -0px;
- width: 185px;
+ width: 165px;
 
 }
 
@@ -22,27 +22,27 @@ display: block;
 
 .communites {
  display: block;
- margin-top: ;
+ margin-right: 200px;
  margin-top: -10;
-width: 185px;
+width: 177px;
 
 }
 
 .message_wiiu {
   display: block;
-  width: 185px;
+  width: 177px;
 }
 
 .notifications {
  margin-left: -2px;
-  width: 185px;
+  width: 177px;
 }
 
 .back {
 
   display: block;
   margin: -20px;
-  width: 185px;
+  width: 177px;
   margin-top: -15px;
   margin-left: 1px;
 }
@@ -65,14 +65,33 @@ margin-top: 600px;
 }
 
 
-.banner {
-width: 500px;
-margin-left: 50px;
-margin-top: -170px;
-}
 
-.ban{
-margin-top: 1000px;
 
+
+.green {
+ margin-top: -450px;
+ display: block;
+ position: absolute;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
